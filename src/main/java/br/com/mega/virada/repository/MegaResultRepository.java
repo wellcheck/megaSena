@@ -6,4 +6,6 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface MegaResultRepository extends JpaRepository<MegaResult, Long> {
+
+
 }
